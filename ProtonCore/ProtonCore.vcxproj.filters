@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ProtonCore.ino" />
+    <ClCompile Include="games\CounterGame.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="games\TurretGame.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.ProtonCore.vsarduino.h" />
+    <ClInclude Include="games\CounterGame.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="games\TurretGame.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\arduino folders read me.txt" />
+  </ItemGroup>
+</Project>
