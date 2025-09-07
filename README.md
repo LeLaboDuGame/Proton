@@ -1,0 +1,1 @@
+This is one of my project that I didnt finished but its a kind of gaming console with an esp32 (or arduino) where I connect a creen and a rotary encoder to play some games that are load on start. But ther are not good game for now xd so its boring !
